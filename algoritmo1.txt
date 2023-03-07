@@ -1,0 +1,6 @@
+leia x
+leia y
+leia n
+soma ("+")
+soma (x+y)
+resultado (x+y=n)
