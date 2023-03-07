@@ -1,4 +1,4 @@
 leia x
 leia y
-soma ("x+y=n")
-escreva n
+resultado = x+y=n
+escreva resultado

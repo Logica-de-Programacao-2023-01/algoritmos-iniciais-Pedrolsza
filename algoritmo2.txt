@@ -1,0 +1,9 @@
+leia C
+leia F
+var F para C resultado C = C/5=F-32/9
+escreva resultado C
+var C para F resultado F = F-32/9=C/5
+escreva resultado F
+fim 
+
+
