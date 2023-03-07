@@ -1,6 +1,4 @@
 leia x
 leia y
-leia n
-soma ("+")
-soma (x+y)
-resultado (x+y=n)
+soma ("x+y=n")
+escreva n
