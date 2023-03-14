@@ -1,0 +1,4 @@
+leia X (base do número)
+leia N (expoente do número)
+X^N=X
+escreva X
