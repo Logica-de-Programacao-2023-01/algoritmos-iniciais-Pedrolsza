@@ -1,0 +1,5 @@
+escreva m
+escreva n
+escreva p
+m=[(n1.p1)+(n2.p2)+(nx.px)
+escreva m
