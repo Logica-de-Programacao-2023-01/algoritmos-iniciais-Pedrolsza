@@ -1,0 +1,7 @@
+leia N (numero desejado)
+se N elemento 1
+escreva elemento 1
+se N elemento 2 
+escreva elemento 2
+Se N elemento X 
+escreva elemento X
