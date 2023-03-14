@@ -1,0 +1,6 @@
+leia M
+leia C
+leia t
+leita i
+M=C(1-i)^t
+escreva M
