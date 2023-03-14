@@ -1,1 +1,4 @@
-
+leia S (número somado dos fatores escolhidos da lista)
+leia N (total de numeros escolhidos)
+faça S/N = X
+escreva X
