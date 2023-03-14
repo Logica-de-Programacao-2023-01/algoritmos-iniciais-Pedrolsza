@@ -1,0 +1,4 @@
+leia b
+leia h
+faça b.h/2=x
+escreva x
