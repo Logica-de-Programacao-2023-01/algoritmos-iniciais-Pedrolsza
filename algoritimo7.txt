@@ -1,0 +1,8 @@
+leia N
+para N número inteiro
+escreva N
+para N número decimal
+escreva não é primo
+N senão 1
+N/1 var N/N 
+
