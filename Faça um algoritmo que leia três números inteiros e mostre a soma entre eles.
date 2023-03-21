@@ -1,0 +1,17 @@
+package main
+
+import "fmt"
+
+func main() {
+   var num1 int
+   fmt.Print("Digite o 1° número")
+   fmt scan(&num1)
+   var num2 int
+   fmt.Print("Digite o 2° número")
+   fmt scan(&num2)
+   var num3 int
+   fmt scan (&num3)
+   var resultado int
+   resultado = num1+num2+num3
+   fmt.Print("Sua soma deu", &resultado)
+   
